@@ -7,7 +7,3 @@ author: Aloïs Deniel <alois.deniel@outlook.com>
 environment:
   sdk: '>2.0.0-dev <3.0.0'
 
-dependencies:
-
-dev_dependencies:
-  test: 
